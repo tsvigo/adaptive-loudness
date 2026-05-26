@@ -1,0 +1,23 @@
+# Qt Creator
+*.pro.user
+*.pro.user.*
+
+# Директории сборки Qt
+build-*/
+CMakeLists.txt.user
+*.cmake
+cmake-build-*/
+
+# Операционная система
+.DS_Store
+Thumbs.db
+
+# Компиляторы/линкеры
+*.o
+*.obj
+*.so
+*.dll
+*.exe
+*.a
+*.lib
+Makefile
